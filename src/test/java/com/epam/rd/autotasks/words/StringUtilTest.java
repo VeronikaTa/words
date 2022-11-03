@@ -1,5 +1,6 @@
-package com.epam.rd.autotasks.words;
+package com.epam.training.student_veronika_tarasova.words.src.test.java.com.epam.rd.autotasks.words;
 
+import com.epam.training.student_veronika_tarasova.words.src.main.java.com.epam.rd.autotasks.words.StringUtil;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;

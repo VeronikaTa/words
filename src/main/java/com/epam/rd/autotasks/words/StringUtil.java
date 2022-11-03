@@ -1,6 +1,5 @@
-package com.epam.rd.autotasks.words;
+package com.epam.training.student_veronika_tarasova.words.src.main.java.com.epam.rd.autotasks.words;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.StringJoiner;
 import java.util.regex.Pattern;
